@@ -1,0 +1,5 @@
+Path like:
+
+├───weight
+│   └───genconvit_ed_inference.pth
+│   └───genconvit_vae_inference.pth
