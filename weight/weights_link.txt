@@ -1,5 +1,5 @@
 Path like:
-Link : https://drive.google.com/drive/folders/1Ucf6lgYt1HraYaaVDcPikeGyDnFVZnib?usp=drive_link
+Link : https://drive.google.com/drive/folders/1Ucf6lgYt1HraYaaVDcPikeGyDnFVZnib?usp=sharing
 
 
 ├───weight
