@@ -13,12 +13,15 @@ The DeepFake Detection System is a cutting-edge solution that combines FastAPI f
 - ✅ **Real-Time Results:** Provides confidence scores and detection outcomes.
 
 ---
+  ## QR for Telegram Bot
   <img src="https://github.com/user-attachments/assets/16f81f0f-3277-4f2c-8622-ddf0c4d20009" alt="QR Code" width="300" height="300">
+
   
+  ## System Architecture Diagram
   ![System Architecture Diagram](https://github.com/user-attachments/assets/f7a75a15-3c74-4749-bdb2-8171f306be93)
 
 
-
+## Demo Video
 https://github.com/user-attachments/assets/4c407d64-fdd9-45a2-8036-8b4594f6e45a
 
 
