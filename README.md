@@ -25,7 +25,8 @@ The DeepFake Detection System is a cutting-edge solution that combines FastAPI f
 https://github.com/user-attachments/assets/4c407d64-fdd9-45a2-8036-8b4594f6e45a
 
 ## For Full Video Refer This Link
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J-FQU8GQVyY?si=yqMJu0vXHESXADLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![YouTube Video](https://img.youtube.com/vi/J-FQU8GQVyY/0.jpg)](https://www.youtube.com/watch?v=J-FQU8GQVyY)
+
 
 
 ## How It Works
